@@ -2,8 +2,8 @@
 An every day journey in to the life of a programmer
 
 ### 21/03/2022 | Monday
-- [x] Write test cases for golang
-- [x] Study http test cases for golang
+- [ ] Write test cases for golang
+- [ ] Study http test cases for golang
 
 ### 21/03/2022 | Monday
 - [x] Wrote programs on slices such as deleting an element
