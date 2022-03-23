@@ -1,9 +1,14 @@
 # super-journey
 An every day journey in to the life of a programmer
 
+### 22/03/2022 | Tuesday
+- [ ] Write multi-test case in golang
+- [ ] [Learn Go Programming by Building 11 Projects](https://www.youtube.com/watch?v=jFfo23yIWac&list=PLwQVGrUPq1c-UvuzhnwutzZ5I4Ze2rUVG&index=1)
+- [ ] [Unit testing HTTP servers](https://www.youtube.com/watch?v=hVFEV-ieeew&list=PLwQVGrUPq1c-UvuzhnwutzZ5I4Ze2rUVG&index=5)
+
 ### 21/03/2022 | Monday
-- [ ] Write test cases for golang
-- [ ] Study http test cases for golang
+- [x] Write test cases in golang
+- [x] Study http test cases in golang
 
 ### 21/03/2022 | Monday
 - [x] Wrote programs on slices such as deleting an element
