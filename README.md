@@ -4,6 +4,7 @@ An every day journey in to the life of a programmer
 
 ### 24/03/2022 | Tuesday
 - [ ] Write a simple todo app with a mssql database in golang
+- [ ] [Learn Go Programming by Building 11 Projects – Full Course](https://www.youtube.com/watch?v=jFfo23yIWac&list=PLwQVGrUPq1c-UvuzhnwutzZ5I4Ze2rUVG&index=1)
 
 ### 22/03/2022 | Tuesday
 - [ ] Write multi-test case in golang
