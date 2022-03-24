@@ -6,12 +6,12 @@ An every day journey in to the life of a programmer
 - [ ] Write a simple todo app with a mssql database in golang
 - [ ] [Learn Go Programming by Building 11 Projects – Full Course](https://www.youtube.com/watch?v=jFfo23yIWac&list=PLwQVGrUPq1c-UvuzhnwutzZ5I4Ze2rUVG&index=1)
 
-### 22/03/2022 | Tuesday
+### 23/03/2022 | Wednesday
 - [ ] Write multi-test case in golang
 - [ ] [Learn Go Programming by Building 11 Projects](https://www.youtube.com/watch?v=jFfo23yIWac&list=PLwQVGrUPq1c-UvuzhnwutzZ5I4Ze2rUVG&index=1)
 - [ ] [Unit testing HTTP servers](https://www.youtube.com/watch?v=hVFEV-ieeew&list=PLwQVGrUPq1c-UvuzhnwutzZ5I4Ze2rUVG&index=5)
 
-### 21/03/2022 | Monday
+### 22/03/2022 | Tuesday
 - [x] Write test cases in golang
 - [x] Study http test cases in golang
 
