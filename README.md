@@ -2,8 +2,9 @@
 An every day journey in to the life of a programmer
 
 
-### 24/03/2022 | Tuesday
+### 24/03/2022 | Thursday
 - [ ] Write a simple todo app with a mssql database in golang
+- [ ] [Concurrency Patterns In Go](https://www.youtube.com/watch?v=YEKjSzIwAdA&list=PLwQVGrUPq1c-UvuzhnwutzZ5I4Ze2rUVG&index=2)
 
 ### 23/03/2022 | Wednesday
 - [ ] Write multi-test case in golang
