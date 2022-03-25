@@ -1,6 +1,10 @@
 # super-journey
 An every day journey in to the life of a programmer
 
+### 25/03/2022 | Friday
+- [ ] [7 common mistakes in Go and when to avoid them](https://www.youtube.com/watch?v=29LLRKIL_TI&list=PLwQVGrUPq1c-UvuzhnwutzZ5I4Ze2rUVG&index=1)
+- [ ] [Pointers & Derefrence Operator (& and *)](https://www.youtube.com/watch?v=a4HcEsJ1hIE&list=PLwQVGrUPq1c-UvuzhnwutzZ5I4Ze2rUVG&index=8)
+
 
 ### 24/03/2022 | Thursday
 - [ ] Write a simple todo app with a mssql database in golang
