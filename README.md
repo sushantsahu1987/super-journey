@@ -3,6 +3,7 @@ An every day journey in to the life of a programmer
 
 ### 27/03/2022 | Sunday
 - [ ] [10 Secrets in Go](https://www.youtube.com/watch?v=IB2JzpXaXo4&list=PLwQVGrUPq1c-UvuzhnwutzZ5I4Ze2rUVG&index=2)
+- [ ] [Building a Bank with Go](https://www.youtube.com/watch?v=y2j_TB3NsRc&list=PLwQVGrUPq1c-UvuzhnwutzZ5I4Ze2rUVG&index=2)
 
 ### 25/03/2022 | Friday
 - [ ] [7 common mistakes in Go and when to avoid them](https://www.youtube.com/watch?v=29LLRKIL_TI&list=PLwQVGrUPq1c-UvuzhnwutzZ5I4Ze2rUVG&index=1)
