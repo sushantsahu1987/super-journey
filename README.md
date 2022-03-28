@@ -1,6 +1,11 @@
 # super-journey
 An every day journey in to the life of a programmer
 
+
+### 28/03/2022 | Sunday
+- [ ] [5 Tips for Writing Idiomatic Code in Golang](https://www.youtube.com/watch?v=TYQH4Rc6hwQ&list=PLwQVGrUPq1c-UvuzhnwutzZ5I4Ze2rUVG&index=1)
+- [ ] [10 secrets in Go](https://www.youtube.com/watch?v=IB2JzpXaXo4&list=PLwQVGrUPq1c-UvuzhnwutzZ5I4Ze2rUVG&index=3)
+
 ### 27/03/2022 | Sunday
 - [ ] [10 Secrets in Go](https://www.youtube.com/watch?v=IB2JzpXaXo4&list=PLwQVGrUPq1c-UvuzhnwutzZ5I4Ze2rUVG&index=2)
 - [ ] [Building a Bank with Go](https://www.youtube.com/watch?v=y2j_TB3NsRc&list=PLwQVGrUPq1c-UvuzhnwutzZ5I4Ze2rUVG&index=2)
